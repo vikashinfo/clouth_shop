@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "balmain-logo-print-crew-neck-sweatshirt",
+      "name": "Balmain Logo-Print Crew-Neck Sweatshirt",
+      "brand": "Balmain",
+      "category": "women",
+      "subCategory": "tops",
+
+      "price": 595,
+      "originalPrice": 670,
+      "currency": "GBP",
+
+      "description": "Crafted from cotton, this long-sleeved sweatshirt features a contrasting Balmain Paris logo printed at the chest. Designed with a crew neck and comfortable fit.",
+      "thumbnail": "https://media.istockphoto.com/id/1060374266/photo/happy-asian-woman-choosing-clothes-in-shop-store-with-happy-action-at-department-center.jpg?s=612x612&w=0&k=20&c=53ylMWTQp0v_N9bT9P6NKYytaOsvcP1mLu0XE5jJZPc="
+    },
+
+    {
+      "id": 2,
+      "slug": "balenciaga-floral-print-silk-shirt",
+      "name": "Floral-Print Silk Shirt",
+      "brand": "Balenciaga",
+      "category": "women",
+      "subCategory": "tops",
+      "originalPrice": 540,
+      "price": 1690,
+      "currency": "GBP",
+
+      "thumbnail": "https://media.istockphoto.com/id/1175408968/photo/woman-buying-clothes-at-department-store-stock-photo.jpg?s=612x612&w=0&k=20&c=Tc_PuR-oxnXF45K_FCI4Z7EDkOWAofSxbWmL0U7mXu4=",
+
+      "description": "Balenciaga floral silk shirt featuring an oversized fit and luxurious silk fabric."
+    },
+
+    {
+      "id": 3,
+      "slug": "khaite-argo-lip-print-shirt",
+      "name": "The Argo Lip-Print Shirt",
+      "brand": "Khaite",
+      "category": "women",
+      "subCategory": "tops",
+
+      "price": 640,
+      "originalPrice": 890,
+      "currency": "GBP",
+
+      "thumbnail": "https://media.istockphoto.com/id/1560030949/photo/happy-young-indian-couple-with-shopping-bags-in-hand-looking-camera-concept-of-festival.jpg?s=1024x1024&w=is&k=20&c=LDzAQ-MuDdp-2SHpZ65uw7_Rfz8Lrns4fyF0n5Sh3KA=",
+
+      "description": "Playful lip-print shirt crafted from lightweight fabric, designed for everyday luxury."
+    },
+
+    {
+      "id": 4,
+      "slug": "jacquemus-la-chemise-galliga-blouse",
+      "name": "La Chemise Galliga Blouse",
+      "brand": "Jacquemus",
+      "category": "women",
+      "subCategory": "tops",
+      "originalPrice": 320,
+      "price": 592,
+      "currency": "GBP",
+
+      "thumbnail": "https://media.istockphoto.com/id/1013264960/photo/vitamin-e-tocopherols-medical-bottles-with-pills-and-spray-bottle-3d-rendering-isolated-on.jpg?s=1024x1024&w=is&k=20&c=gl-f1ZrVTirkxsMHduvmt7RDNBmB3DnJ8CCAC4wAn28=",
+
+      "description": "Jacquemus blouse with elegant cropped design and statement sleeves."
+    },
+
+    {
+      "id": 5,
+      "slug": "alexander-mcqueen-zip-up-denim-corset",
+      "name": "Zip-Up Denim Corset",
+      "brand": "Alexander McQueen",
+      "category": "women",
+      "subCategory": "tops",
+      "originalPrice": 599,
+      "price": 1500,
+      "currency": "GBP",
+
+      "thumbnail": "https://media.istockphoto.com/id/1136422399/photo/face-cream-serum-lotion-moisturizer-and-sea-salt.jpg?s=612x612&w=0&k=20&c=yRNnwTNqIm06OpeffWvkOSuL5syb9VIWW5o1tJozBv0=",
+
+      "description": "Structured denim corset featuring zip-up front and modern tailoring."
+    }
+  ]
+}
